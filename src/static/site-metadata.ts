@@ -11,17 +11,17 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteUrl: 'https://xfeng.io',
+  logo: 'https://ipfs.crossbell.io/ipfs/QmWX2ZU7btx6nEgWgqr5Xci6xS8U8VbdGB9gtZhvrna5Cc?img-quality=75&img-format=auto&img-onerror=redirect&img-width=256',
   description: 'Personal site and blog',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      url: 'https://xfeng.io',
     },
     {
       name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      url: 'https://xfeng.io/about',
     },
   ],
 };
